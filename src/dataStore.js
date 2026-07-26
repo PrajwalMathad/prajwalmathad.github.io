@@ -23,15 +23,15 @@ const DataStore = {
         {
             name: 'NodeJs',
             value: '90'
-        },        
+        },
         {
             name: 'MongoDB',
             value: '88'
-        },        
+        },
         {
             name: 'PostgreSQL',
             value: '82'
-        },       
+        },
         {
             name: 'Docker',
             value: '80'
@@ -42,6 +42,19 @@ const DataStore = {
         }
     ],
     experiences: [
+        {
+            type: "Job",
+            title: "Senior Full Stack Engineer",
+            company: "Fidelity Investments",
+            url: "https://www.fidelity.com/",
+            place: "Boston",
+            dates: "Sept 2025 - Present",
+            description: [
+                "Building a web application to help foundations .",
+                "As a Full stack engineer, worked on all the aspects of the application development. ",
+                "System design.",
+            ]
+        },
         {
             type: "Internship",
             title: "Full Stack Engineer, Co-op",
